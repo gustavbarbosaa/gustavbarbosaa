@@ -5,7 +5,7 @@
 - 🏐 Gosto bastante de praticar esportes. Atualmente pratico bastante voleibol.
 - 📖 Ao longo de meus estudos, venho fazendo algumas práticas para poder fixar melhor o conteúdo. Desenvolvi alguns projetos  iniciais, como ladding pages, formulários, páginas de login e etc.    
 - 📫 Este é o meu email pessoal: gustavoaraujohab@gmail.com <br>
-     Para acessar meu Linkedin, <a href="https://www.linkedin.com/in/gustavo-ara%C3a%BAjo-a3a723219/">clique aqui!</a>  <br>
+     Para acessar meu Linkedin, <a href="https://www.linkedin.com/in/gustavo-ara%C3%BAjo-a3a723219/">clique aqui!</a>  <br>
      Para acessar meu Instagram, <a href="https://www.instagram.com/gustavbarbosaa/">clique aqui!</a>
 
 <div align="center">
@@ -26,7 +26,6 @@
      <a href = "mailto:gustavoaraujohab@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/gustavo-ara%C3a%BAjo-a3a723219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-   
 
 <!---
 gustavbarbosaa/gustavbarbosaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
