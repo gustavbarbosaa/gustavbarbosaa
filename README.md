@@ -1,7 +1,7 @@
 <h1>Olá, eu sou Gustavo Henrique!</h1>
 
 - 👨‍🦱 Olá, eu sou @gustavbarbosaa! Obrigado por visitar meu perfil.
-- 💻 Estou estudando para poder me tornar um desenvolvedor Front-End!     
+- 💻 Buscando minha primeira vaga na área!     
 - 🏐 Gosto bastante de praticar esportes. Atualmente pratico bastante voleibol.
 - 📖 Ao longo de meus estudos, venho fazendo algumas práticas para poder fixar melhor o conteúdo. Desenvolvi alguns projetos  iniciais, como ladding pages, formulários, páginas de login e etc.
 <h2> Contatos:</h2>
