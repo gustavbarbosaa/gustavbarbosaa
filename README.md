@@ -3,7 +3,7 @@
 - 👨‍🦱 Olá, eu sou @gustavbarbosaa! Obrigado por visitar meu perfil.
 - 💻 Buscando minha primeira vaga na área!     
 - 🏐 Gosto bastante de praticar esportes. Atualmente pratico bastante voleibol.
-- 📖 Ao longo de meus estudos, venho fazendo algumas práticas para poder fixar melhor o conteúdo. Desenvolvi alguns projetos  iniciais, como ladding pages, formulários, páginas de login e etc.
+- 📖 Atualmente venho buscando a aprendizagem no desenvolimento mobile  com o Flutter. Também tenho experiência com desenvolvimento web, desde o backend ao frontend, através de cursos e bootcamps que realizei ao longo de meus estudos.
 <h2> Contatos:</h2>
 <div align="center">
      <a href="https://www.instagram.com/gustavbarbosaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -24,6 +24,10 @@
   <img align="center" alt="gustavo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="gustavo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="gustavo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
+  <img align="center" alt="gustavo-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+</div>
+  <img align="center" alt="gustavo-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+</div>
   <img align="center" alt="gustavo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
