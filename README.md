@@ -3,7 +3,7 @@
 - 👨‍🦱 Olá, eu sou @gustavbarbosaa! Obrigado por visitar meu perfil.
 - 💻 Buscando minha primeira vaga na área!     
 - 🏐 Gosto bastante de praticar esportes. Atualmente pratico bastante voleibol.
-- 📖 Atualmente venho buscando a aprendizagem no desenvolimento mobile  com o Flutter. Também tenho experiência com desenvolvimento web, desde o backend ao frontend, através de cursos e bootcamps que realizei ao longo de meus estudos.
+- 📖 Atualmente venho estudando front-end com VueJS em busca de aprimorar meus conhecimentos na área.
 <h2> Contatos:</h2>
 <div align="center">
      <a href="https://www.instagram.com/gustavbarbosaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
