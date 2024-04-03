@@ -3,7 +3,7 @@
 - 👨‍🦱 Olá, eu sou @gustavbarbosaa! Obrigado por visitar meu perfil.
 - 💻 Buscando minha primeira vaga na área!     
 - 🏐 Gosto bastante de praticar esportes. Atualmente pratico bastante voleibol.
-- 📖 Atualmente venho estudando front-end com VueJS em busca de aprimorar meus conhecimentos na área.
+- 📖 Atualmente venho estudando front-end com VueJS e Angular em busca de aprimorar meus conhecimentos na área.
 <h2> Contatos:</h2>
 <div align="center">
      <a href="https://www.instagram.com/gustavbarbosaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -17,6 +17,9 @@
 <h2> Tecnologias:</h2>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="gustavo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="gustavo-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-plain-wordmark.svg" />
+  <img align="center" alt="gustavo-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="gustavo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
   <img align="center" alt="gustavo-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
   <img align="center" alt="gustavo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="gustavo-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -27,14 +30,6 @@
   <img align="center" alt="gustavo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/gustavbarbosaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavbarbosaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavbarbosaa&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-     
 <br>
 <br>
 
