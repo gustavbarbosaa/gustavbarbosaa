@@ -1,7 +1,6 @@
 <h1>Olá, eu sou Gustavo Henrique!</h1>
 
 - 👨‍🦱 Olá, eu sou @gustavbarbosaa! Obrigado por visitar meu perfil.
-- 💻 Buscando minha primeira vaga na área!     
 - 🏐 Gosto bastante de praticar esportes. Atualmente pratico bastante voleibol.
 - 📖 Atualmente venho estudando front-end com VueJS e Angular em busca de aprimorar meus conhecimentos na área.
 <h2> Contatos:</h2>
