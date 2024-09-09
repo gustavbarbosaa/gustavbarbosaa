@@ -2,7 +2,7 @@
 
 - 👨‍🦱 Olá, eu sou @gustavbarbosaa! Obrigado por visitar meu perfil.
 - 🏐 Gosto bastante de praticar esportes. Atualmente pratico bastante voleibol.
-- 📖 Atualmente venho estudando front-end com VueJS e Angular em busca de aprimorar meus conhecimentos na área.
+- 📖 Atualmente venho estudando front-end com Angular em busca de aprimorar meus conhecimentos na área.
 <h2> Contatos:</h2>
 <div align="center">
      <a href="https://www.instagram.com/gustavbarbosaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
