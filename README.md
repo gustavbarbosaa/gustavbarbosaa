@@ -1,68 +1,89 @@
 <h1 align="center">👋 Olá, eu sou Gustavo Henrique!</h1>
 
 <p align="center">
-💡 Desenvolvedor Frontend apaixonado por tecnologia e inovação!  
-🚀 Sempre buscando novos desafios e aprimorando minhas habilidades no mundo do desenvolvimento web.
+  <strong>Desenvolvedor Full Stack apaixonado por tecnologia e inovação</strong><br/>
+  🚀 Criando aplicações robustas com Spring Boot no backend e Angular no frontend<br/>
+  💡 Sempre buscando novos desafios e evoluindo minhas habilidades no desenvolvimento
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gustavo-barbosa-6a5b52295/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:gustavoaraujohab@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/gustavbarbosaa/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
 ---
 
-<h2>📬 Contato</h2>
+## 🎯 Sobre Mim
 
-<p>Quer bater um papo ou trocar ideias? Me encontre por aqui:</p>
+Sou um desenvolvedor full stack com experiência em **Spring Boot** e **Angular**, especializado em criar aplicações web escaláveis e de alta performance. Trabalho com PostgreSQL para gerenciamento de dados e sempre estou buscando aplicar as melhores práticas e padrões de desenvolvimento.
 
+---
+
+## 🛠 Tecnologias & Ferramentas
+
+### 🎨 Frontend
 <div align="center">
-     <a href="https://www.instagram.com/gustavbarbosaa/" target="_blank">
-         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-     </a>
-     <a href="mailto:gustavoaraujohab@gmail.com">
-         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-     </a>
-     <a href="https://www.linkedin.com/in/gustavo-barbosa-6a5b52295/" target="_blank">
-         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-     </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular" alt="Angular" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" height="40" width="40"/>
+</div>
+
+### ⚙️ Backend & Banco de Dados
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" title="Java" alt="Java" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" height="40" width="40"/>
+</div>
+
+### 📚 Ferramentas & Controle de Versão
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" height="40" width="40"/>
 </div>
 
 ---
 
-<h2>🚀 Tecnologias que domino</h2>
+## 🚀 O Que Estou Aprendendo
 
-<h3>🎨 Frontend</h3>
+- 📌 **Arquitetura & Design Patterns:** Microserviços, DDD, SOLID Principles
+- 🎯 **Spring Boot Avançado:** Spring Security, JPA/Hibernate, Spring Data
+- 🔧 **Angular Moderno:** RxJS, Services, Interceptors, State Management
+- 💬 **Boas Práticas:** Clean Code, Testing, CI/CD
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular" alt="Angular" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" title="Vue.js" alt="Vue.js" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML5" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" height="40"/>
+  <a href="https://github.com/gustavbarbosaa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavbarbosaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavbarbosaa&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 ---
 
-<h3>🛠 Backend & Banco de Dados</h3>
+## 💬 Vamos Conversar?
+
+Estou sempre aberto para:
+- 🤝 Colaborações em projetos interessantes
+- 💡 Discussões sobre desenvolvimento
+- 🎓 Compartilhar e aprender conhecimento
+
+Sinta-se à vontade para me contactar através dos links acima!
+
+---
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" title="Java" alt="Java" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" height="40"/>
+  ✨ Obrigado por visitar meu perfil! 🚀
 </div>
-
----
-
-<h3>📜 Versionamento</h3>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" height="40"/>
-</div>
-
----
-
-<h2>📖 Atualmente aprendendo...</h2>
-
-📌 Sempre explorando novas tecnologias para expandir meu conhecimento e otimizar soluções!  
-🎯 Buscando me aprofundar ainda mais no universo do desenvolvimento Full Stack!  
-
-📢 Se quiser trocar uma ideia sobre tecnologia ou projetos, sinta-se à vontade para me chamar! 😃
-
----
-
-✨ Obrigado por visitar meu perfil! 🚀  
