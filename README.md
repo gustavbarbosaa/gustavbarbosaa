@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Gustavo Henrique!</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack apaixonado por tecnologia e inovação</strong><br/>
+  <strong>Desenvolvedor Full Stack</strong><br/>
   🚀 Criando aplicações robustas com Spring Boot no backend e Angular no frontend<br/>
   💡 Sempre buscando novos desafios e evoluindo minhas habilidades no desenvolvimento
 </p>
