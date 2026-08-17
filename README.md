@@ -190,15 +190,6 @@ Atualmente trabalho com conteúdos relacionados a:
 
 A docência também faz parte da forma como estudo tecnologia: entender um assunto suficientemente bem para conseguir explicá-lo de maneira clara.
 
----
-
-## 📊 GitHub
-
-<div align="center">
-  <a href="https://github.com/gustavbarbosaa">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gustavbarbosaa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavbarbosaa&layout=compact&langs_count=8&theme=github_dark"/>
-  </a>
 </div>
 
 ---
